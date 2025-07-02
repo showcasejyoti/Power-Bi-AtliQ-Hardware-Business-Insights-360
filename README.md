@@ -94,6 +94,11 @@ The entire project has provided end to end experience. I worked on this project 
  -	Absolute Error
  -	Forecast accuracy
  -	Revenue Contribution
+   
+ 	Following is a schema of Bussiness Metrics for better understanding :
+
+   ![Business metrics schema](https://github.com/user-attachments/assets/b3127c2b-a643-4a76-b35a-727a38074474)
+
 
 
 
