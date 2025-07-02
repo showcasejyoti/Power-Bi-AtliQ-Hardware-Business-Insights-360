@@ -25,6 +25,13 @@ The entire project has provided end to end experience. I worked on this project 
 - DAX studio (for performance optimization- VertiPaq Analyser)
 - Project Charter (Mural)
 
+  ## 🧹 Data Collection
+-	Data Catalog
+-	Unzip & uncompress the sql text
+-	My SQL (import the database)
+
+
+
 
 🧠
 🛠 Power BI Techniques
