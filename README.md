@@ -26,47 +26,47 @@ The entire project has provided end to end experience. I worked on this project 
 - Project Charter (Mural)
 
 ### 🧹 Data Collection
- -	Data Catalog
+- Data Catalog
 -	Unzip & uncompress the sql text
 -	My SQL (import the database)
 
 ### 🛠 Power BI Techniques
 
-####  Data Importing
+#### &nbsp;&nbsp;&nbsp; Data Importing
 - MySQL
 - Excel
 - Other external sources
   
-####	Data Preparation
+####	&nbsp;&nbsp;&nbsp; Data Preparation
 - Data cleaning in Power Query
 - Creating calculated columns in Power Query
 - Creating a Date Table using M language
   
-#### Data Modeling
+#### &nbsp;&nbsp;&nbsp; Data Modeling
 -	Building Data Model
 -	Creating calculated columns in Power BI
   
-####	DAX Measures & Expressions
+####	&nbsp;&nbsp;&nbsp; DAX Measures & Expressions
 -	Creating measures using DAX
 -	Numeric parameters as dynamic slicers
 -	Field parameters to switch visual fields
   
-####	Visual Customization
+####	&nbsp;&nbsp;&nbsp; Visual Customization
 -	Adding dynamic titles and labels based on user selection
 -	Conditional formatting: icons, background colors, and data bars
 -	Using tooltips to show trends
 -	Merging donut charts and bar charts for better interactivity
   
-####	Navigation & Interactivity
+#### &nbsp;&nbsp;&nbsp; 	Navigation & Interactivity
 -	Adding page navigation with buttons
 -	Using the Selection Pane and Bookmarks for pop-up notifications
 -	Toggling between visuals using Bookmarks
 -	Applying different types of Filters
 
-####	Power BI Features
+####	&nbsp;&nbsp;&nbsp; Power BI Features
 -	Utilizing updated visuals: New Card, Button Slicer
 
-####	Power BI Service
+####	&nbsp;&nbsp;&nbsp; Power BI Service
 -	Publishing reports
 -	Exporting reports
 -	Sharing with access control
@@ -75,6 +75,27 @@ The entire project has provided end to end experience. I worked on this project 
 -	Collaboration
 -	Getting insights
 -	Managing gateways and data connections
+
+### 📊Business Metrics
+ -	Gross Sales
+ -	Pre Invoice Deduction
+ -	Net Invoice Sales
+ -	Post Invoice Discount
+ -	Post Invoice other Deduction
+ -	Total Post Invoice Deduction
+ -	Net Sales
+ -	Total COGS: Manufacturing Cost, Freight Cost, Other Cost
+ -	Gross Margin
+ -	Operational Expense: Ads & promotion, Other Operational Expenses
+ -	Net Profit
+ -	YTD - Year To Date
+ -	YTG- Year To Go
+ -	Net Error
+ -	Absolute Error
+ -	Forecast accuracy
+ -	Revenue Contribution
+
+
 
 
 
