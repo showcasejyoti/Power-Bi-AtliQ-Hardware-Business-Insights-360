@@ -30,9 +30,10 @@ The entire project has provided end to end experience. I worked on this project 
 -	Unzip & uncompress the sql text
 -	My SQL (import the database)
 
+### 🛠 Power BI Techniques
+-	Data Importing
+o	MySQL
+o	Excel
+o	Other external sources
 
-
-
-🧠
-🛠 Power BI Techniques
 
