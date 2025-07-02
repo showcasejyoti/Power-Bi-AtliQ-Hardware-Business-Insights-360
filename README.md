@@ -1,7 +1,7 @@
 # Power-Bi-AtliQ-Hardware-Business-Insights-360
 
 
-## 📂Project Overview
+## 🧾 Project Overview
 
 AtliQ Hardware is a global electronics company specializing in computers, peripherals, and accessories. In recent years, the company has significantly expanded its operations worldwide. With this rapid growth, the complexity of business challenges has also increased.
 To tackle these challenges and promote data-driven decision-making, AtliQ Hardware has hired a dedicated Data Analytics team. While the company previously relied on Excel for reporting, the growing scale of operations has made Power BI the preferred tool for advanced data visualization and reporting.
@@ -10,16 +10,16 @@ This project aims to provide stakeholders with actionable insights across key bu
 The entire project has provided end to end experience. I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 
 
-## 🔗Live Dashboard Link
+## 🔗 Live Dashboard Link
  [Click here to view the dashboard](https://app.powerbi.com/groups/869ba0a8-e859-477e-ae6f-40de64dc726f/reports/1b416459-51f8-45ba-96d3-374429b37711/d432794ba64090d60710?experience=power-bi)
  
 
-## 📘Learnings
+## 🧠 Learnings
 
-### 🧰Tech Stacks
+### 🧰 Tech Stacks
 
 - PowerBi Desktop
--  My SQL
+- My SQL
 - Excel
 - DAX language
 - DAX studio (for performance optimization- VertiPaq Analyser)
@@ -76,9 +76,9 @@ The entire project has provided end to end experience. I worked on this project 
 -	Getting insights
 -	Managing gateways and data connections
 
-### 📊Business Metrics
- -	Gross Sales
- -	Pre Invoice Deduction
+### 📊 Business Metrics
+-	Gross Sales
+-	Pre Invoice Deduction
  -	Net Invoice Sales
  -	Post Invoice Discount
  -	Post Invoice other Deduction
@@ -87,7 +87,7 @@ The entire project has provided end to end experience. I worked on this project 
  -	Total COGS: Manufacturing Cost, Freight Cost, Other Cost
  -	Gross Margin
  -	Operational Expense: Ads & promotion, Other Operational Expenses
- -	Net Profit
+  -	Net Profit
  -	YTD - Year To Date
  -	YTG- Year To Go
  -	Net Error
@@ -98,6 +98,99 @@ The entire project has provided end to end experience. I worked on this project 
  	Following is a schema of Bussiness Metrics for better understanding :
 
    ![Business metrics schema](https://github.com/user-attachments/assets/b3127c2b-a643-4a76-b35a-727a38074474)
+
+   
+### 📚 Terminology
+
+-	Landing estimate
+-	OLTP - Online Transaction Processing
+-	OLAP - Online Analytical Processing
+-	Out of stock & Excess Inventory
+-	Query Folding
+-	Golden Ratio (1:1.6)
+
+### 🤝 Stakeholder Interaction Insights
+
+-	Usage of Teams Chat
+-	Kick Off Meeting: Report Feature & Project Charter
+-	Stakeholder Analysis (by scattered chart)
+-	Mockups
+
+
+### ❓ Questions to ask before starting with dashboard
+
+- What is the objective and goals of building this PowerBi dashboard?
+- In what terms, the success of this project will be measured?
+- What will be time dead-line of the project?
+- Do the stakeholders expecting pre-view before the actual release?
+- What are all the hopes stakeholders have out of this project?
+- what are all fears the stakeholder have in terms of building this dashboard?
+- Who all will be using this dashboard and for what purpose?
+- What are all expectation the stakeholders have, by the completion of this project?
+- What can go wrong while building this project?
+- What are all the resources/ data needed to build this dashboard?
+- Is there any inputs from stakeholders in terms of design and views of the dashboard?
+-How often will the Product owner have meeting with the team.
+
+### ✅ Data Validation
+-	Benchmark no. from stakeholder
+-	Self-check the Business metrics by calculation
+-	UAT – User Acceptance Testing (by main stakeholder)
+-	Data Validation in Excel (exported from published Power Bi service)
+-	Final stage of validation from each stakeholders
+
+
+## 🗂️ Data Sources
+
+AtliQ Hardware has provided two SQL databases and four Excel files for analysis.
+
+### Excel Files 
+- Operating Expenses – Contains company-wide expense data
+- Targets (FY 2022 only) – Sales targets for the fiscal year 2022
+- Market Share (Personal Computer Division) – Limited to PC segment analysis
+- Country Flag - Contains photo of flag of all countries in the world
+
+### SQL Databases 
+
+**Database: gdb041**
+**Fact Tables**
+- ```fact_forecast_monthly``` – Monthly sales forecasts.
+- ```fact_sales_monthly``` – Actual monthly sales data.
+
+**Dimension Tables**
+
+- ```dim_customer``` – Customer details.
+- ```dim_market``` – Market segmentation.
+- ```dim_product``` – Product information.
+
+**Database: gdb056**
+**Financial & Cost Data Tables**
+
+- ```freight_cost``` – Logistics and shipping costs.
+- ```gross_price``` – Product pricing before discounts.
+- ```manufacturing_cost``` – Production expenses.
+- ```post_invoice_deductions``` – Discounts applied after invoicing.
+- ```pre_invoice_deductions``` – Discounts and adjustments before invoicing.
+
+**Time Frame & Fiscal Year**
+AtliQ’s fiscal year runs from September to August.
+The dataset includes actual sales data from September 1, 2017, to December 31, 2021.
+
+
+## Data Model
+
+- Data modeling is all about creating relationship between the tables. It plays a vital role and is considered as the basement of report. All the visuals will be built upon the data model.
+- Two kinds of table: 
+            Primary table (has unique id) i.e. Dim Table
+            Secondary table (repeated values & transaction) i.e. Fact Table
+- In this project, we have followed Snowflakes schema of data modeling because the relationship is not only established with Dim—Fact but also Dim—Dim
+
+
+
+
+
+
+
 
 
 
