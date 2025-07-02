@@ -9,8 +9,10 @@ This project aims to provide stakeholders with actionable insights across key bu
 
 The entire project has provided end to end experience. I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 
+
 ## 🔗Live Dashboard Link
  [Click here to view the dashboard](https://app.powerbi.com/groups/869ba0a8-e859-477e-ae6f-40de64dc726f/reports/1b416459-51f8-45ba-96d3-374429b37711/d432794ba64090d60710?experience=power-bi)
+ 
 
 ## 📘Learnings
 
@@ -21,7 +23,7 @@ The entire project has provided end to end experience. I worked on this project 
 - Excel
 - DAX language
 - DAX studio (for performance optimization- VertiPaq Analyser)
--Project Charter (Mural)
+- Project Charter (Mural)
 
 
 🧠
