@@ -212,16 +212,30 @@ In Home view, all the views button will be available. User will land on specific
   ![home pg](https://github.com/user-attachments/assets/7193a6aa-2daa-4daf-bc0f-7e87a0108cd9)
 
 
+
+
+
 ### Finance View
 
 ![Finance View](https://github.com/user-attachments/assets/12ecbd0b-35ec-4dc1-9427-f6dcf5e8cd5f)
 
 
+
+
 ### Sales View
+
+
+
 
 ![Sales View](https://github.com/user-attachments/assets/3a2ee875-f2e3-4365-96a6-f52d27682c33)
 
 ### Marketing View
+
+
+
+
+
+![Market View](https://github.com/user-attachments/assets/fb4877f2-7fdd-4d69-aec5-c6fc45b8e83e)
 
 
 
