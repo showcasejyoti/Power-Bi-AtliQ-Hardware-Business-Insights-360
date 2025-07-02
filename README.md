@@ -79,21 +79,22 @@ The entire project has provided end to end experience. I worked on this project 
 ### 📊 Business Metrics
 -	Gross Sales
 -	Pre Invoice Deduction
- -	Net Invoice Sales
- -	Post Invoice Discount
- -	Post Invoice other Deduction
- -	Total Post Invoice Deduction
- -	Net Sales
- -	Total COGS: Manufacturing Cost, Freight Cost, Other Cost
- -	Gross Margin
- -	Operational Expense: Ads & promotion, Other Operational Expenses
-  -	Net Profit
- -	YTD - Year To Date
- -	YTG- Year To Go
- -	Net Error
- -	Absolute Error
- -	Forecast accuracy
- -	Revenue Contribution
+-	Net Invoice Sales
+-	Post Invoice Discount
+-	Post Invoice other Deduction
+-	Total Post Invoice Deduction
+-	Net Sales
+-	Total COGS: Manufacturing Cost, Freight Cost, Other Cost
+-	Gross Margin
+-	Operational Expense: Ads & promotion, Other Operational Expenses
+-	Net Profit
+-	YTD - Year To Date
+-	YTG- Year To Go
+-	Net Error
+-	Absolute Error
+-	Forecast accuracy
+-	Revenue Contribution
+
    
  	Following is a schema of Bussiness Metrics for better understanding :
 
@@ -148,7 +149,7 @@ AtliQ Hardware has provided two SQL databases and four Excel files for analysis.
 - Operating Expenses – Contains company-wide expense data
 - Targets (FY 2022 only) – Sales targets for the fiscal year 2022
 - Market Share (Personal Computer Division) – Limited to PC segment analysis
-- Country Flag - Contains photo of flag of all countries in the world
+- Country Flag - Contains image of flag of all countries in the world
 
 ### SQL Databases 
 
@@ -162,6 +163,7 @@ AtliQ Hardware has provided two SQL databases and four Excel files for analysis.
 - ```dim_customer``` – Customer details.
 - ```dim_market``` – Market segmentation.
 - ```dim_product``` – Product information.
+- ```dim_country flag``` – image of flag of countries
 
 **Database: gdb056**
 **Financial & Cost Data Tables**
@@ -177,16 +179,65 @@ AtliQ’s fiscal year runs from September to August.
 The dataset includes actual sales data from September 1, 2017, to December 31, 2021.
 
 
-## Data Model
+## ❄️ Data Model
 
 - Data modeling is all about creating relationship between the tables. It plays a vital role and is considered as the basement of report. All the visuals will be built upon the data model.
 - Two kinds of table: 
-            Primary table (has unique id) i.e. Dim Table
-            Secondary table (repeated values & transaction) i.e. Fact Table
+    - Primary table (has unique id) i.e. Dim Table
+    - Secondary table (repeated values & transaction) i.e. Fact Table
 - In this project, we have followed Snowflakes schema of data modeling because the relationship is not only established with Dim—Fact but also Dim—Dim
 
+  Following Snowfall Data Modeling :
+
+![Data Model](https://github.com/user-attachments/assets/7e105cb3-7c2e-43f7-98e4-66f7361bfb43)
 
 
+## 🎨 Dashboard designing
+
+Based on the mockups provided by the main stakeholder, designed the visuals and created measure as and when required
+
+### Home page
+
+In Home view, all the views button will be available. User will land on specific view page by clicking the button 
+
+- Finance View
+- Sales View
+- Marketing View
+- Supply chain View
+- Product View
+- Executive View
+- Information pop-up
+- Support pop-up
+
+  ![home pg](https://github.com/user-attachments/assets/7193a6aa-2daa-4daf-bc0f-7e87a0108cd9)
+
+
+### Finance View
+
+
+
+### Sales View
+
+
+### Marketing View
+
+
+
+### Supply chain View
+
+
+
+### Products View
+
+
+### Executive View
+
+
+
+
+
+
+  
 
 
 
