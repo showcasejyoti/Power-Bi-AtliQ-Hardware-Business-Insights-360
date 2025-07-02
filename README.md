@@ -14,7 +14,7 @@ The entire project has provided end to end experience. I worked on this project 
 
 ## 📘Learnings
 
-###🧰Tech Stacks
+### 🧰Tech Stacks
 
 - PowerBi Desktop
 -  My SQL
