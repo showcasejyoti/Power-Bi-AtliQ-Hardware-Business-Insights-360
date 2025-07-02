@@ -192,13 +192,13 @@ The dataset includes actual sales data from September 1, 2017, to December 31, 2
 ![Data Model](https://github.com/user-attachments/assets/7e105cb3-7c2e-43f7-98e4-66f7361bfb43)
 
 
-## 🎨 Dashboard designing
+## 🎨 Dashboard Designing
 
 Based on the mockups provided by the main stakeholder, designed the visuals and created measure as and when required
 
 ### Home page
 
-In Home view, all the views button will be available. User will land on specific view page by clicking the button 
+In Home page, all the views button will be available. User will land on specific view page by clicking the button 
 
 - Finance View
 - Sales View
@@ -227,18 +227,18 @@ In Home view, all the views button will be available. User will land on specific
 ![Sales View](https://github.com/user-attachments/assets/3a2ee875-f2e3-4365-96a6-f52d27682c33)
 
 
-### Marketing View
+### Market View
 
 
 ![Market View](https://github.com/user-attachments/assets/fb4877f2-7fdd-4d69-aec5-c6fc45b8e83e)
 
 
-### Supply chain View
+### Supply Chain View
 
 ![Supply Chain View](https://github.com/user-attachments/assets/4931eded-f79d-4397-b23e-1875e7866f74)
 
 
-### Products View
+### Product View
 
 ![Product View](https://github.com/user-attachments/assets/58322772-af82-46cb-a2e0-5d30edefac6c)
 
