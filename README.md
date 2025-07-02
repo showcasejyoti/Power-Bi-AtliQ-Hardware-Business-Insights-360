@@ -209,8 +209,9 @@ In Home view, all the views button will be available. User will land on specific
 - Information pop-up
 - Support pop-up
 
-  ![home pg](https://github.com/user-attachments/assets/7193a6aa-2daa-4daf-bc0f-7e87a0108cd9)
 
+
+![home pg](https://github.com/user-attachments/assets/d3d50ab9-36a2-4e39-81cf-7208adb12ffd)
 
 
 
@@ -239,10 +240,13 @@ In Home view, all the views button will be available. User will land on specific
 
 ### Products View
 
+![Product View](https://github.com/user-attachments/assets/58322772-af82-46cb-a2e0-5d30edefac6c)
+
 
 ### Executive View
 
 
+![Executive View](https://github.com/user-attachments/assets/d1b0538b-323b-411d-85da-fa77dae23a67)
 
 
 
