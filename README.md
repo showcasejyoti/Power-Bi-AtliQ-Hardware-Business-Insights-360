@@ -86,13 +86,13 @@ The entire project has provided end to end experience. I worked on this project 
 -	Net Sales
 -	Total COGS: Manufacturing Cost, Freight Cost, Other Cost
 -	Gross Margin
--	Operational Expense: Ads & promotion, Other Operational Expenses
+-	Operational Expense: Ads & Promotion, Other Operational Expenses
 -	Net Profit
 -	YTD - Year To Date
 -	YTG- Year To Go
 -	Net Error
 -	Absolute Error
--	Forecast accuracy
+-	Forecast Accuracy
 -	Revenue Contribution
 
    
@@ -103,10 +103,10 @@ The entire project has provided end to end experience. I worked on this project 
    
 ### 📚 Terminology
 
--	Landing estimate
+-	Landing Estimate
 -	OLTP - Online Transaction Processing
 -	OLAP - Online Analytical Processing
--	Out of stock & Excess Inventory
+-	Out Of Stock & Excess Inventory
 -	Query Folding
 -	Golden Ratio (1:1.6)
 
