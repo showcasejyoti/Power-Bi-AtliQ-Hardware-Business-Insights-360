@@ -214,6 +214,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ### Finance View
 
+![Finance View](https://github.com/user-attachments/assets/12ecbd0b-35ec-4dc1-9427-f6dcf5e8cd5f)
 
 
 ### Sales View
