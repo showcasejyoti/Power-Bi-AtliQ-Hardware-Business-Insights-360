@@ -219,6 +219,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ### Sales View
 
+![Sales View](https://github.com/user-attachments/assets/3a2ee875-f2e3-4365-96a6-f52d27682c33)
 
 ### Marketing View
 
