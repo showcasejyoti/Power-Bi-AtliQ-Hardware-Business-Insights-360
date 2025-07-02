@@ -26,14 +26,55 @@ The entire project has provided end to end experience. I worked on this project 
 - Project Charter (Mural)
 
 ### 🧹 Data Collection
--	Data Catalog
+ -	Data Catalog
 -	Unzip & uncompress the sql text
 -	My SQL (import the database)
 
 ### 🛠 Power BI Techniques
--	Data Importing
-o	MySQL
-o	Excel
-o	Other external sources
+
+####  Data Importing
+- MySQL
+- Excel
+- Other external sources
+  
+####	Data Preparation
+- Data cleaning in Power Query
+- Creating calculated columns in Power Query
+- Creating a Date Table using M language
+  
+#### Data Modeling
+-	Building Data Model
+-	Creating calculated columns in Power BI
+  
+####	DAX Measures & Expressions
+-	Creating measures using DAX
+-	Numeric parameters as dynamic slicers
+-	Field parameters to switch visual fields
+  
+####	Visual Customization
+-	Adding dynamic titles and labels based on user selection
+-	Conditional formatting: icons, background colors, and data bars
+-	Using tooltips to show trends
+-	Merging donut charts and bar charts for better interactivity
+  
+####	Navigation & Interactivity
+-	Adding page navigation with buttons
+-	Using the Selection Pane and Bookmarks for pop-up notifications
+-	Toggling between visuals using Bookmarks
+-	Applying different types of Filters
+
+####	Power BI Features
+-	Utilizing updated visuals: New Card, Button Slicer
+
+####	Power BI Service
+-	Publishing reports
+-	Exporting reports
+-	Sharing with access control
+-	Creating apps
+-	Using endorsements
+-	Collaboration
+-	Getting insights
+-	Managing gateways and data connections
+
 
 
