@@ -154,11 +154,12 @@ AtliQ Hardware has provided two SQL databases and four Excel files for analysis.
 ### SQL Databases 
 
 **Database: gdb041**
-**Fact Tables**
+
+**Fact Tables:**
 - ```fact_forecast_monthly``` – Monthly sales forecasts.
 - ```fact_sales_monthly``` – Actual monthly sales data.
 
-**Dimension Tables**
+**Dimension Tables:**
 
 - ```dim_customer``` – Customer details.
 - ```dim_market``` – Market segmentation.
@@ -166,7 +167,8 @@ AtliQ Hardware has provided two SQL databases and four Excel files for analysis.
 - ```dim_country flag``` – image of flag of countries
 
 **Database: gdb056**
-**Financial & Cost Data Tables**
+
+**Financial & Cost Data Tables:**
 
 - ```freight_cost``` – Logistics and shipping costs.
 - ```gross_price``` – Product pricing before discounts.
