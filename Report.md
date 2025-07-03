@@ -8,7 +8,7 @@ Since the .pbix file is too large to upload directly to GitHub, you have to view
 
  🔗 Click the Google Drive link to view the report [here](https://drive.google.com/file/d/1j0hov9Ctoic7t354rfKNLsAGWlsMlgca/view?usp=sharing)
 
- 📁 Unzip the file to view online or Download to view in your local computer
+⬇️ Download to view in your local computer
 
 ## Live Report
 
