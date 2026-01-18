@@ -11,7 +11,7 @@ The entire project has provided end to end experience. I worked on this project 
 
 
 ## 🔗 Live Dashboard Link
- [Click here to view the dashboard](https://app.powerbi.com/groups/me/reports/5ee83019-f586-4c57-bb52-8bf0bb13b71f/d432794ba64090d60710?experience=power-bi)
+ [Click here to view the dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGNlYWIzZWYtOTM2NS00Nzk3LWFjZjUtMzVkOWRjNGVjMTMyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
  
 
 ## 🧠 Learnings
