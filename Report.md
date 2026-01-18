@@ -12,7 +12,7 @@ Since the .pbix file is too large to upload directly to GitHub, you have to view
 
 ## Live Report
 
- This link will take you Power Bi service. Click to view [here](https://app.powerbi.com/groups/869ba0a8-e859-477e-ae6f-40de64dc726f/reports/1b416459-51f8-45ba-96d3-374429b37711/d432794ba64090d60710?experience=power-bi)
+ This link will take you Power Bi service. Click to view [here](https://app.powerbi.com/view?r=eyJrIjoiZGNlYWIzZWYtOTM2NS00Nzk3LWFjZjUtMzVkOWRjNGVjMTMyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
  
 
 Following is the Short Preview of the Report:
